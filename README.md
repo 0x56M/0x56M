@@ -1,6 +1,6 @@
 Hello, World!!! Eu sou o Vinícius!!!
 
-- Apaixonado por Redes de Computadores
+- Apaixonado por Redes de Computadores e Segurança da Informação/Cibersecugança
 - Programador C por hobbie
  ##
 
