@@ -1,6 +1,6 @@
 Hello, World!!! Eu sou o Vinícius!!!
 
-- Estudante de Redes de Computadores e Segurança da Informação/Cibersegurança
+- Estudante de Redes de Computadores, InfoSec/Cybersec e baixo nível.
  ##
 
 <picture>
