@@ -1,6 +1,6 @@
 Hello, World!!! My name is Vinícius!!!
 
-- Estudante de Redes de Computadores, InfoSec/Cybersec e baixo nível.
+- Estudante de Arquitetura de computadores/Programação em baixo nível, InfoSec/Cybersec e Redes.
  ##
 
 <picture>
