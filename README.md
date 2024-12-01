@@ -1,7 +1,4 @@
-Hello, World!!! My name is Vinícius!!!
-
-- Estudante de Arquitetura de computadores/Programação em baixo nível, InfoSec/Cybersec e Redes.
- ##
+My name is V0x4d!!!
 
 <picture>
   <source
